@@ -1,7 +1,4 @@
-# HW-2
-405410122 hw-2
-
-client--server in C
+# client--server in C
 
 功能:
 多使用者同時連線(上限100)
